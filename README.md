@@ -57,8 +57,3 @@ Check out my portfolio:
 
 ⭐ Thanks for visiting my profile!
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunak955&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak955&layout=compact&theme=tokyonight)
